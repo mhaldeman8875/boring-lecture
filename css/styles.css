@@ -1,0 +1,14 @@
+h2.intro{
+  color: darkred;
+  font-family: cursive;
+}
+
+p.intro{
+  width: 50%;
+  font-family: AppleGothic;
+  text-align: center;
+}
+
+img.intro{
+  box-shadow: 10px 10px 10px 5px rgba(0,0,0,.5);
+}
